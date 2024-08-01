@@ -1,0 +1,15 @@
+import java.util.*;
+
+public class part_1_2nd
+{
+public static void main(String[] args)
+
+{
+    Scanner in=new Scanner(System.in);
+   int b=20;
+
+
+   System.out.println(b+"$");
+
+}
+}
